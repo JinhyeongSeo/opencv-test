@@ -296,4 +296,5 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+*.iml
 # End of https://www.toptal.com/developers/gitignore/api/intellij,python,opencv
